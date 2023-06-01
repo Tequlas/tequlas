@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 🚨 I’m looking for long-term internships.
 
-📫 How to reach me: emregokgedik2@gmail.com
+📫 How to reach me: sametkahraman.tr@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tequlas)](https://github.com/anuraghazra/github-readme-stats)
