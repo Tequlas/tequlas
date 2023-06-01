@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👨‍🎓 I’m currently a Industrial Engineering student(3/4) in Kutahya Dumlupinar University.
+
+🚨 I’m looking for long-term internships.
+
+📫 How to reach me: emregokgedik2@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tequlas)](https://github.com/anuraghazra/github-readme-stats)
